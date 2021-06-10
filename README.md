@@ -7,4 +7,4 @@ Instructions for using:
 4. For Transformer models the models are downloaded as part of transformers package.
 5. Open the python notebook on Colab where it can be executed (The notebook may not open in Github due to large size).
 6. The code has been run on tensorflow 1.x for BiLSTM based models.
-7. The code has been run on tensorflow 2.x for Transformer (BERT, ALBERT, MPNet, RoBERTa) based models on TPU environment.
+7. The code has been run on tensorflow 2.x for Transformer (BERT, ALBERT, MPNet, RoBERTa) based models on a TPU environment.
